@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSinifi", "StringSinifi\StringSinifi.csproj", "{B062FF9D-7B79-49BC-BE6A-1202A40E3A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B062FF9D-7B79-49BC-BE6A-1202A40E3A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B062FF9D-7B79-49BC-BE6A-1202A40E3A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B062FF9D-7B79-49BC-BE6A-1202A40E3A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B062FF9D-7B79-49BC-BE6A-1202A40E3A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BED586-05DD-4FC7-B392-60400B434EE3}
+	EndGlobalSection
+EndGlobal
